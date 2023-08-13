@@ -11,6 +11,7 @@
 [<img height="48" width="48" src="https://cdn.simpleicons.org/vk/"/>](https://vk.com/avsharapov)
 [<img height="48" width="48" src="https://cdn.simpleicons.org/telegram/"/>](https://t.me/avsharapov)
 [<img height="48" width="48" src="https://cdn.simpleicons.org/telegram/"/>](https://t.me/dailyshrpv)
+[<img height="48" width="48" src="https://cdn.simpleicons.org/wakatime"/>](https://wakatime.com/@shrpv)
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
