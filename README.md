@@ -12,8 +12,6 @@
 [<img height="48" width="48" src="https://cdn.simpleicons.org/telegram/"/>](https://t.me/avsharapov)
 [<img height="48" width="48" src="https://cdn.simpleicons.org/telegram/"/>](https://t.me/dailyshrpv)
 
-[![](https://visitcount.itsvg.in/api?id=av-sharapov&label=Profile%20Views&color=4&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
