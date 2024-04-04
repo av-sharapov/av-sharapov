@@ -4,7 +4,7 @@
 
 ## ⌨️ stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,git,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,postgres,git,phpstorm,postman,notion)](https://skillicons.dev)
 
 ## ✉️ contact with me
 
